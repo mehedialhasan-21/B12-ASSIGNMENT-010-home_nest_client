@@ -1,7 +1,5 @@
 # 🏠 HomeNest — Real Estate Listing Portal
 
-**Live Site:** [https://warmpaw-1b35b.web.app](https://warmpaw-1b35b.web.app)
-
 HomeNest is a full-stack real estate listing platform where property owners can post rentals and sale listings, and users can browse, search, and filter properties.
 
 ## ✨ Features
